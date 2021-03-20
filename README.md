@@ -5,9 +5,9 @@ Also you need install curses-menu and mpv
 so:
 
 
-pip install curses-menu
-pacman -S mpv /or/ apt install mpv
+>> pip install curses-menu
+>> pacman -S mpv /or/ apt install mpv
 
 
 Then you can just run script via
-./c_radio.py
+>> ./c_radio.py
