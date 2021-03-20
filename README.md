@@ -6,6 +6,7 @@ so:
 
 
 >> pip install curses-menu
+>> 
 >> pacman -S mpv /or/ apt install mpv
 
 
